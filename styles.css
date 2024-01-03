@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+    font-family: Tahoma;
+}
+
+.secao {
+    background-color: rgb(153, 213, 202);
+    text-align: center;
+}
+
+.links a {
+    padding: 20px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.secao p a {
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 50px;
+    line-height: 30px;
+    font-family: "Arial";
+}
+
+.secaodois p {
+    text-align: center;
+}
+
+.secaodois img {
+    width: 1700px;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.secaotres p {
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.secaotres img {
+    text-align: center;
+    width: 800px;
+    height: 500px;
+}
+
+p {
+    text-align: center;
+    font-size: 35px;
+    font-family: "Tahoma";
+}
+
+span {
+    color: rgb(62, 77, 212);
+}
+
+.secaoquatro {
+    background-color: #1d80c1;
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.secaoquatro p {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+.secaoquatro span {
+    color: #fff81b;
+    font-weight: bold;
+}
+
+.secaoquatro ul {
+    padding-top: 20px;
+}
+
+.lista-servicos{
+width: 135px;
+margin: 40px auto 40px;
+background-color: #1d80c1;
+padding: 40px;
+font-size: 40px;
+}
+
+h3 {
+    color:#1d80c1;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+.secaocinco {
+    background-color:#1d80c1;
+    padding: 20px;
+}
+
+h4 {
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+.secaocinco p {
+    text-align: center;
+}
+
+iframe {
+    width: 1300px;
+    height: 650px;
+}
+
+h5 {
+color: #fff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.secaocinco span {
+    color: #fff81b;
+}
+
+.secaocinco a {
+    font-size: 30px;
+    font-family: 'Verdana';
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin-top: 15px;
+    color: #ffffff;
+    background-color: #25D366;
+    border-radius: 25px;
+    text-align: center;
+}
